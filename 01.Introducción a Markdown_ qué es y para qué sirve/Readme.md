@@ -53,7 +53,7 @@ Recuerda que este es solo un mapa conceptual básico que cubre los aspectos gene
 
 
 
-![MapaConcetual]()
+![MapaConcetual](https://github.com/ByChokeYT/Curso_de_Markdown/blob/main/01.Introducci%C3%B3n%20a%20Markdown_%20qu%C3%A9%20es%20y%20para%20qu%C3%A9%20sirve/Recursos/mapa.png?raw=true)
 
 
 ---
